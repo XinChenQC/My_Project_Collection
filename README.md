@@ -7,7 +7,7 @@ Collection and sort of my projects.
 
 (Analyze reactive trajectories, Python) [ReaxANA](https://github.com/chenxin199261/ReaxANA "ReaxANA") 
 
-(Plot the Minimal energy path, Python) [ReaxANA](https://github.com/chenxin199261/MEPplot "MEPplot") 
+(Plot the Minimal energy path, Python) [MEPplot](https://github.com/chenxin199261/MEPplot "MEPplot") 
 
 
 ## Learning Project
