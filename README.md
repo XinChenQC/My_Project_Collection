@@ -12,4 +12,10 @@ Collection and sort of my projects.
 
 ## Learning Project
 
+(Use QE in ASE, Python) [ASE-QE](https://github.com/chenxin199261/ASE-QE_OER)
+
 ## Code bank
+
+## For fun
+
+(Dialogue between AI agents, Python, HyperDIV) [ASE-QE](https://github.com/chenxin199261/AI-dialogue)
