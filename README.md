@@ -22,3 +22,5 @@ Collection and sort of my projects.
 ## For fun
 
 (Dialogue between AI agents, Python, HyperDIV) [AI-dialogue](https://github.com/XinChenQC/AI-dialogue)
+
+(Carbonous particles generation) [AI-dialogue](https://github.com/XinChenQC/MindlessGen-soot)
